@@ -1,0 +1,19 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oemersonpaiva/node-farm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oemersonpaiva/node-farm/issues"
+  },
+  "homepage": "https://github.com/oemersonpaiva/node-farm#readme"
+}
