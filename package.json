@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/oemersonpaiva/node-farm/issues"
   },
-  "homepage": "https://github.com/oemersonpaiva/node-farm#readme"
+  "homepage": "https://github.com/oemersonpaiva/node-farm#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
